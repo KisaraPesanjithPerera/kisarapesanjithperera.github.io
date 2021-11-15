@@ -8,4 +8,4 @@
 
 # Bye Sir 🔥
 
-![image](https://user-images.githubusercontent.com/86920820/141726306-2e2148db-a255-4e2a-a51d-b2bc63082696.png)
+![image](https://user-images.githubusercontent.com/86920820/141726444-20a3af00-e9eb-4cde-8767-1aac08c6e130.png)
