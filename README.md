@@ -6,4 +6,6 @@
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about anything, I am happy to help
 
-# <a title="Bye Sir 🔥" href="https://github.com/SenuGamerBoy" target="_blank">Bye IMG<img src="https://toppng.com/uploads/preview/banner-chibi-by-xnekorux-on-deviantart-chibi-deadpool-dibujo-11563112125twsf5zci0n.png" alt="Bye IMG"></a>
+# Bye Sir 🔥
+
+![image](https://user-images.githubusercontent.com/86920820/141726306-2e2148db-a255-4e2a-a51d-b2bc63082696.png)
