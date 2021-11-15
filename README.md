@@ -8,3 +8,4 @@
 -  🎯 Contribute and create open source projects
 -  📚 I'm studying Python | English
 -  🎮 Find me in the gaming world: <b>SenuGamerBoy</b>
+
