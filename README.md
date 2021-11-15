@@ -5,7 +5,3 @@
 -  🔭 I’m currently working on : MaX Bots  <br>
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about anything, I am happy to help
--  🎯 Contribute and create open source projects
--  📚 I'm studying Python | English
--  🎮 Find me in the gaming world: <b>SenuGamerBoy</b>
-
