@@ -8,5 +8,5 @@
 
 # Bye Sir 🔥
 
-![image](https://user-images.githubusercontent.com/86920820/141726536-efe0bf8b-0ebc-4d77-aae8-7e78f6079893.png)
+![image](https://telegra.ph/file/19a484fd20015faaf721f.png)
 
