@@ -8,7 +8,7 @@
 
 # About theme
 
-[Senu Resume.zip](https://github.com/SenuGamerBoy/SenuGamerBoy.github.io/files/7564301/Senu.Resume.zip)
+* [Download theme](https://github.com/SenuGamerBoy/SenuGamerBoy.github.io/files/7564301/Senu.Resume.zip)
 
 
 # Bye Sir 🔥
