@@ -6,6 +6,11 @@
 -  🤔 I’m looking for help : For  Me  <br>
 -  💬 Ask me about anything, I am happy to help
 
+# About theme
+
+[Senu Resume.zip](https://github.com/SenuGamerBoy/SenuGamerBoy.github.io/files/7564301/Senu.Resume.zip)
+
+
 # Bye Sir 🔥
 
 ![image](https://telegra.ph/file/19a484fd20015faaf721f.png)
