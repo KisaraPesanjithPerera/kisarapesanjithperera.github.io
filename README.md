@@ -9,7 +9,9 @@
 # About theme
 
 * [Download theme](https://github.com/SenuGamerBoy/SenuGamerBoy.github.io/files/7564301/Senu.Resume.zip)
-
+* Template Name: MyResume
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license
 
 # Bye Sir 🔥
 
