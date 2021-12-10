@@ -12,12 +12,12 @@
 -  🎯 Contribute And Create Open Source Projects
 -  📚 I'm Studying ![python](https://img.shields.io/badge/Python-English-green)
 
-<img align='center' src="https://user-images.githubusercontent.com/86920820/141724764-1f8671a0-5dc5-4826-8a7e-198911984ac5.png" width="230">
+<img align='right' src="https://github.com/KisaraPesanjithPerera/kisarapesanjithperera.github.io/blob/main/assets/img/d0016fc849b1ed052cc9f32f044f5fd9-removebg-preview.png" width="230">
 
 
-# About theme
+# About Theme
 
-* [Download theme](https://github.com/SenuGamerBoy/SenuGamerBoy.github.io/files/7564301/Senu.Resume.zip)
+* [Download Theme](https://github.com/SenuGamerBoy/SenuGamerBoy.github.io/files/7564301/Senu.Resume.zip)
 * Template Name: MyResume
 * Author: BootstrapMade.com
 
