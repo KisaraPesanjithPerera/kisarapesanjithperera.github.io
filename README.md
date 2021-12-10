@@ -23,5 +23,5 @@
 
 # Bye Sir 🔥
 
-![image](https://telegra.ph/file/19a484fd20015faaf721f.png)
+![image](https://github.com/KisaraPesanjithPerera/kisarapesanjithperera.github.io/blob/main/assets/img/wp7565170-removebg-preview.png)
 
