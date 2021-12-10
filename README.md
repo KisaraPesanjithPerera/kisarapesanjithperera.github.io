@@ -12,7 +12,7 @@
 -  🎯 Contribute And Create Open Source Projects
 -  📚 I'm Studying ![python](https://img.shields.io/badge/Python-English-green)
 
-<img align='right' src="https://github.com/KisaraPesanjithPerera/kisarapesanjithperera.github.io/blob/main/assets/img/d0016fc849b1ed052cc9f32f044f5fd9-removebg-preview.png" width="230">
+<img align='left' src="https://github.com/KisaraPesanjithPerera/kisarapesanjithperera.github.io/blob/main/assets/img/d0016fc849b1ed052cc9f32f044f5fd9-removebg-preview.png" width="230">
 
 
 # About Theme
