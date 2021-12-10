@@ -2,7 +2,7 @@
 
 # Welcome To My Mini Website Repo 👋
 
--  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
+-  🚶‍&nbsp;I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
 -  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m Looking For Help : ![me](https://img.shields.io/badge/For-Me-beige)  <br>
