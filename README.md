@@ -2,8 +2,6 @@
 
 # Welcome To My Mini Website Repo 👋
 
-<img align='right' src="https://user-images.githubusercontent.com/86920820/141724764-1f8671a0-5dc5-4826-8a7e-198911984ac5.png" width="230">
-
 -  🚶‍ &nbsp; I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
 -  👯 I’m Looking To Collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
@@ -13,6 +11,9 @@
 -  💬 Ask Me About Anything, I Am Happy To Help
 -  🎯 Contribute And Create Open Source Projects
 -  📚 I'm Studying ![python](https://img.shields.io/badge/Python-English-green)
+
+<img align='center' src="https://user-images.githubusercontent.com/86920820/141724764-1f8671a0-5dc5-4826-8a7e-198911984ac5.png" width="230">
+
 
 # About theme
 
