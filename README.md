@@ -1,6 +1,5 @@
+#  Welcome To My Mini Website Repo 👋
 ![Hi](https://user-images.githubusercontent.com/86920820/142460641-9bfd416c-43bc-4e58-9737-68c5442fc8ca.png)
-
-# Welcome To My Mini Website Repo 👋
 
 -  🚶‍&nbsp;I Live In : Sri Lanka 🇱🇰  <br>
 -  🔭 I’m Currently Working On : ![bots](https://img.shields.io/badge/MaX-Bots-red)  <br>
@@ -25,4 +24,4 @@
 ![image](https://github.com/KisaraPesanjithPerera/kisarapesanjithperera.github.io/blob/main/assets/img/wp7565170-removebg-preview.png)
 
 # Credits 📈
-* 🧿Forked By  https://github.com/SenuGamerBoy/SenuGamerBoy.github.io 👻
+* **🧿Forked By**  https://github.com/SenuGamerBoy/SenuGamerBoy.github.io 👻
