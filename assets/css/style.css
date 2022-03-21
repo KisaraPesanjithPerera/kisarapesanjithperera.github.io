@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://github.com/KisaraPesanjithPerera/kisarapesanjithperera.github.io/blob/main/assets/img/BigBg.jpg") top right no-repeat;
+  background: url("assets/img/BigBg.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
