@@ -1,5 +1,5 @@
 /**
-* Template Name: MyResume - v4.6.0
+* Template Name: MyResume - v4.7.0
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://github.com/KisaraPesanjithPerera/kisarapesanjithperera.github.io/tree/main/assets/img/BigBg.jpg") top right no-repeat;
+  background: url("../img/hero-bg.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
